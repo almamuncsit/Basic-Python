@@ -3,8 +3,8 @@ b = 3.2352354
 c = 'Bangladesh'
 
 print("Int %d" % a)
-print("Float %.2f" %b)
-print("Country %s" %c)
+print("Float %.2f" % b)
+print("Country %s" % c)
 
 
 a = input()

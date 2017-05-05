@@ -3,7 +3,7 @@ print(type(a))
 for item in a:
     print(item)
 
-b = {'name' : 'MD. Maksudur Rahman Khan', 'nickname' : 'Maateen', 'email' : 'maateen@outlook.com', 'phone' : '01711223344'}
+b = {'name': 'MD. Maksudur Rahman Khan', 'nickname': 'Maateen', 'email': 'maateen@outlook.com', 'phone': '01711223344'}
 print(b)
 print(type(b))
 for item in b:
@@ -18,3 +18,4 @@ for number in range(1, 11):
     if number == 5:
         break
     print(number)
+

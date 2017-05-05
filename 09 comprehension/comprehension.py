@@ -7,5 +7,5 @@ print (n_list)
 
 a_list = ['name', 'country', 'career']
 b_list = ['Mamun', 'Bangladesh', 'TeleTalk']
-my_dec = {i : j for i, j in zip(a_list, b_list)}
+my_dec = {i: j for i, j in zip(a_list, b_list)}
 print (my_dec)
