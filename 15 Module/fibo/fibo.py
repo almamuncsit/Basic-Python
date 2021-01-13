@@ -6,6 +6,7 @@ def fib(n):
         a, b = b, a+b
     return series
 
+
 if __name__ == "__main__":
     temp = fib(100)
     print(temp)

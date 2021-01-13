@@ -6,6 +6,7 @@ def count(i):
         return
     count(i)
 
+
 count(1)
 
 
@@ -16,4 +17,4 @@ def factorial(number):
         return number * factorial(number - 1)
 
 
-print (factorial(5))
+print(factorial(5))

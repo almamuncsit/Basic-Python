@@ -23,5 +23,7 @@ def another_function():
         print(item)
     return
 
-#hello()
+
+hello()
+
 another_function()

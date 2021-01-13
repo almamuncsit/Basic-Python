@@ -16,6 +16,7 @@ class Calculator:
         except ZeroDivisionError:
             return 'It is impossible to divide by zero.'
 
+
 my_calculator = Calculator()
 
 temp = my_calculator.addition(12, 78)

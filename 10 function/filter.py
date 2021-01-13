@@ -7,6 +7,7 @@ def is_even(x):
     else:
         return False
 
+
 new_list = filter(is_even, my_list)
 print(new_list)
 print(list(new_list))

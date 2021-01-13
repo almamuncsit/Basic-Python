@@ -7,4 +7,6 @@ def print_int(number):
     get_int_as_str(number)
     return
 
+
 print_int(130)
+

@@ -3,16 +3,16 @@ print(type(A))
 print(A)
 
 A.add("where")
-print (A)
+print(A)
 
-#A.update('banana', 'Mango')
-#print (A)
+A.update('banana', 'Mango')
+print(A)
 
 A.remove("where")
-print (A)
+print(A)
 
 A.discard("where")
-print (A)
+print(A)
 
 B = set('apple')
 print(type(B))

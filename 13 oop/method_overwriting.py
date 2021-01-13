@@ -27,6 +27,7 @@ class SuperCalculator(Calculator):
     def cube(self, a):
         return a * a * a
 
+
 my_calculator = SuperCalculator()
 
 temp = my_calculator.addition(23, 47, 12)
